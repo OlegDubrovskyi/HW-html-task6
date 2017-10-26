@@ -1,0 +1,71 @@
+
+.parent{
+	height: 1800px;
+	width: 2000px;
+	background-image: url(../img/image1.jpg);
+	position: absolute;
+	left: -88px;
+	top: -390px;
+}
+
+.test{
+	letter-spacing: 10.2px;
+}
+
+.test1{
+	letter-spacing: 11px;
+}
+
+.test2{
+	padding: 38px;
+}
+
+.test3{
+	padding: 44px;
+}
+
+.text{
+	position: absolute;
+	left: 180px;
+	top: 500px;
+	font-size: 48px;
+	letter-spacing: 10.5px;
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+div>[class*="block"]{
+	height: 20px;
+	width: 20px;
+	background-color: black;
+}
+
+.block2{
+	position: absolute;
+	left: 504px;
+	top: 500px;
+}
+
+.block3{
+	position: absolute;
+	left: 544px;
+	top: 500px;
+}
+	
+.block4{
+	position: absolute;
+	left: 524px;
+	top: 520px;
+}
+	
+
+.block5{
+	position: absolute;
+	left: 544px;
+	top: 540px;
+}
+
+.block6{
+	position: absolute;
+	left: 504px;
+	top: 540px;
+}
