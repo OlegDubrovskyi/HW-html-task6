@@ -8,8 +8,17 @@
 	top: -390px;
 }
 
+.text{
+	position: absolute;
+	left: 180px;
+	top: 500px;
+	font-size: 47px;
+	letter-spacing: 10px;
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
 .test{
-	letter-spacing: 10.2px;
+	word-spacing: 21px;
 }
 
 .test1{
@@ -21,17 +30,10 @@
 }
 
 .test3{
-	padding: 44px;
+	padding: 48px;
 }
 
-.text{
-	position: absolute;
-	left: 180px;
-	top: 500px;
-	font-size: 48px;
-	letter-spacing: 10.5px;
-	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
-}
+
 
 div>[class*="block"]{
 	height: 20px;
@@ -41,31 +43,31 @@ div>[class*="block"]{
 
 .block2{
 	position: absolute;
-	left: 504px;
+	left: 500px;
 	top: 500px;
 }
 
 .block3{
 	position: absolute;
-	left: 544px;
+	left: 540px;
 	top: 500px;
 }
 	
 .block4{
 	position: absolute;
-	left: 524px;
+	left: 520px;
 	top: 520px;
 }
 	
 
 .block5{
 	position: absolute;
-	left: 544px;
+	left: 540px;
 	top: 540px;
 }
 
 .block6{
 	position: absolute;
-	left: 504px;
+	left: 500px;
 	top: 540px;
 }
